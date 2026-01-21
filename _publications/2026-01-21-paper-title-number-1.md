@@ -3,7 +3,7 @@ title: "从零构建大模型 (Sebastian Raschka)"
 collection: publications
 # category: manuscripts
 permalink: /publication/2026-01-21-number-1
-excerpt: '1 ■ 了解大型语言模型 1. \n2 ■ 处理文本数据 17. \n3 ■ 编码注意力机制 50. \n4 ■ 从头实现一个GPT模型以生成文本 92. \n5 ■ 在未标注数据上预训练 128. \n6 ■ 细调用于分类 169. \n7 ■ 细调以遵循指令 204'
+excerpt: '1 ■ 了解大型语言模型 1. 2 ■ 处理文本数据 17. 3 ■ 编码注意力机制 50. 4 ■ 从头实现一个GPT模型以生成文本 92. 5 ■ 在未标注数据上预训练 128. 6 ■ 细调用于分类 169. 7 ■ 细调以遵循指令 204'
 date: 2026-01-21
 venue: ''
 # slidesurl: 'https://heiyl.github.io/files/slides1.pdf'
