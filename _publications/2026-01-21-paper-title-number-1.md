@@ -9,7 +9,7 @@ venue: ''
 # slidesurl: 'https://heiyl.github.io/files/slides1.pdf'
 paperurl: 'https://heiyl.github.io/files/book/从零构建大模型 (Sebastian Raschka).pdf'
 # bibtexurl: 'https://heiyl.github.io/files/bibtex1.bib'
-# citation: ''
+citation: ''
 ---
 我读完了《从零构建大模型》，这5个核心洞察颠覆了我的认知
 
